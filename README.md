@@ -90,7 +90,7 @@ My core work spans **modern cloud data platforms and Azure-native ELT pipelines*
 - Co-engineered the **MO360 global manufacturing data platform** (strategic Microsoft partnership), unifying production data across **30+ plants** worldwide to support a 20% production efficiency improvement target.
 - **Led ETL → ELT architectural migration**: consolidated Azure Functions + ADF batch upserts into a single PySpark Structured Streaming job on Databricks — reducing pipeline cloud cost contribution from ~80% to **30–40%** and achieving near real-time data freshness with exactly-once processing.
 - Designed and integrated **Fault-Tolerant Dead Letter Queue (DLQ)** error isolation patterns within serverless ingestion runtimes to intercept and quarantine malformed transaction packets, eliminating pipeline downtime.
-- Built a secure Lakehouse data access framework via **Azure DevOps CLI pipelines**, enforcing enterprise-wide governance.
+- Data Platform Governance & DevOps: Programmatically enforced an **automated principle-of-least-privilege** data access framework on ADLS Gen2 using the **Azure DevOps CLI**, combining macro-level **Azure RBAC with fine-grained Access Control Lists (ACLs)**.
 - Implemented comprehensive telemetry via Azure Monitor, Application Insights, and Log Analytics; developed optimised **KQL queries** for real-time event monitoring via Azure Event Hubs and ADX clusters.
 - Operated in a fast-paced **Agile/ITIL** environment (JIRA + ServiceNow), maintaining **99.9% SLA** for critical production reporting.
 - Served as primary technical liaison between Data Scientists and Business Users across simultaneous workstreams.
