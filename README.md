@@ -319,7 +319,7 @@ Full-stack secure communication platform built to mitigate high-risk governmenta
 - **PII Data Masking & Obfuscation(Data Privacy**
 - **Secret / Key Vault Management**
 - **Data Lineage & Provenance** — 4-hop lineage tracking, Time-Travel audits, immutable blob archives
-- **Cloud Platform Governance** - Automated Azure DevOps pipelines enforcing RBAC and ADLS Gen2 directory ACLs.
+- **Cloud Platform Governance** — Automated Azure DevOps pipelines enforcing RBAC and ADLS Gen2 directory ACLs.
 ### 🧪 Testing, CI/CD & DevOps
 - **xUnit + FluentAssertions** — C# / .NET 8 unit and integration testing, round-trip validation, theory-driven test suites
 - **pytest** (30+ test suites) — Python unit testing, integration testing, GitHub Actions automation
