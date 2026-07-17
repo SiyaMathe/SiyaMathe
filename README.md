@@ -13,12 +13,12 @@
 
 ## 👋 About Me
 
-Senior Cloud Data Engineer with production experience at **Mercedes-Benz South Africa**, co-engineering the **MO360 global manufacturing data platform** — a Microsoft partnership unifying production data across 30+ plants worldwide. Currently directing engineering at **Mathe Tech**, building enterprise-grade intelligent automation suites.
+Senior Cloud Data Engineer with production experience at **Mercedes-Benz South Africa**, co-engineering the **MO360 global manufacturing data platform** — a Microsoft partnership unifying production data across 30+ plants worldwide. Currently directing engineering at **Ikusasa Analytics**, building enterprise-grade intelligent automation suites.
 
 My core work spans **modern cloud data platforms and Azure-native ELT pipelines** (Databricks, PySpark, Delta Lake), **event-driven serverless architecture** (Azure Functions, Storage Queues, Blob Storage), and **production-grade AI/ML systems**. I bridge the gap between complex backend data infrastructure and real business outcomes — from 3NF relational schema design and columnstore analytics through to CI/CD-hardened cloud deployments.
 
 - 🏭 **Ex-MBSA** — MO360 Data Platform, Manufacturing Reporting Services
-- 🚀 **Founder / Lead AI Engineer** — Architecting proprietary agentic suites at Mathe Tech
+- 🚀 **Founder / Lead AI Engineer** — Architecting proprietary agentic suites at Ikusasa Analytics
 - ⚡ Migrated a legacy ETL pipeline → real-time ELT, **cutting cloud costs ~60%**
 - 🤖 Building multi-agent LLM systems with **CrewAI + Anthropic Claude**
 - 🏗️ Architected end-to-end cloud-native platforms: **Urban Pulse Analytics**, **VaxTrace Cloud**, **SchemaForge Studio**
@@ -76,7 +76,7 @@ My core work spans **modern cloud data platforms and Azure-native ELT pipelines*
 
 ## 💼 Experience
 
-### Founder & Executive Director / Lead AI Data Engineer — Mathe Tech
+### Founder & Executive Director / Lead AI Data Engineer — Ikusasa Analytics
 **July 2025 – Present | Cape Town, South Africa**
 - **System Architecture:** Founded and executed the end-to-end technical lifecycle and commercial deployment strategy for a proprietary B2B Lead Generation, Full-Stack Automation, and Agentic AI Suite.
 - **Multi-Agent Orchestration:** Designed an asynchronous multi-agent orchestration framework utilizing CrewAI patterns and Anthropic Claude 3.5 Sonnet to automate multi-source scraping (LinkedIn, Google Maps, Hunter.io) and synthesize context-aware B2B outreach models.
@@ -152,7 +152,7 @@ Production-grade, full-stack analytics platform engineered to ingest, process, a
 
 ---
 
-### 🤖 [B2B Lead Generation Multi-Agent AI Pipeline](https://github.com/SiyaMathe) *(Private — Mathe Tech)*
+### 🤖 [B2B Lead Generation Multi-Agent AI Pipeline](https://github.com/SiyaMathe) *(Private — Ikusasa Analytics)*
 > CrewAI · Anthropic Claude Sonnet 3.5 · XGBoost · MLflow · PySpark · Delta Lake · GitHub Actions
 
 Production-grade agentic pipeline automating B2B lead discovery, intent scoring, and personalised outreach for South African enterprises.
